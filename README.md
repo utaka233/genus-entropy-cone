@@ -41,8 +41,6 @@ The computational environment and completed checks are in VERIFICATION.md.
 - supplement/genus2_data/: six input data/certificate files.
 - supplement/uniform_outer_certificates.json and
   uniform_outer_dfz_certificate.json: rational repair certificates.
-- revision/score_witness.py: exact rational forty-atom score calculation.
-- revision/*.md: source provenance for the computational and external inputs.
 - CITATION.cff: author, software title and prepared version metadata.
 
 Exploratory full-facet searches, candidate-generation scripts, redundant
