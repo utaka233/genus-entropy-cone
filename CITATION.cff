@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this software when using these computations."
+type: software
+title: "Exact computations for A Genus Filtration of the Entropy Cone"
+authors:
+  - family-names: Uchiba
+    given-names: Takayuki
+version: 1.0.0
